@@ -23,3 +23,8 @@ git push origin master
 git pull origin master (to push down the remote changes to our local repository)
 
 git ls-files (to track all files)
+
+
+generics commands
+
+mkdir -p folder/folder to make tree structured directories
