@@ -24,7 +24,13 @@ git pull origin master (to push down the remote changes to our local repository)
 
 git ls-files (to track all files)
 
+git reset HEAD filename
+  -it unstage the file means put back to working directory from staging area or undo git add
 
-generics commands
+git checkout -- filename
+  - it undo the changes we have done or to discard changes in working directory
+
+Linux commands
 
 mkdir -p folder/folder to make tree structured directories
+ok
