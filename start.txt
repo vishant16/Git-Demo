@@ -10,3 +10,14 @@ Lifecycle of Git
 
 -when we create new file, it will be in "working directory" but when we git add it goes to staging area
 after git commit it goes to .git folder.
+
+
+
+commands
+git init
+git status
+git add .
+git commit -m "messages."
+git push origin master
+
+git pull origin master (to push down the remote changes to our local repository)
