@@ -1,5 +1,3 @@
-How git works
-
 Lifecycle of Git
 
 1.Local
