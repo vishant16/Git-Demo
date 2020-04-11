@@ -1,1 +1,12 @@
-git demo
+How git works
+
+Lifecycle of Git
+
+1.Local
+  Working directory
+  staging area
+  .git folder
+2.Remote
+
+-when we create new file, it will be in "working directory" but when we git add it goes to staging area
+after git commit it goes to .git folder.
