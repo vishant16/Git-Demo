@@ -9,26 +9,18 @@ Lifecycle of Git
 -when we create new file, it will be in "working directory" but when we git add it goes to staging area
 after git commit it goes to .git folder.
 
-
-
 commands
-git init
-git status
-git add .
-git commit -m "messages."
-git push origin master
-
-git pull origin master (to push down the remote changes to our local repository)
-
-git ls-files (to track all files)
-
-git reset HEAD filename
-  -it unstage the file means put back to working directory from staging area or undo git add
-
-git checkout -- filename
-  - it undo the changes we have done or to discard changes in working directory
+  git init
+  git status
+  git add .
+  git commit -m "messages."
+  git push origin master
+  git pull origin master (to push down the remote changes to our local repository)
+  git ls-files (to track all files)
+  git reset HEAD filename
+    -it unstage the file means put back to working directory from staging area or undo git add
+  git checkout -- filename
+    - it undo the changes we have done or to discard changes in working directory
 
 Linux commands
-
-mkdir -p folder/folder to make tree structured directories
-ok
+  mkdir -p folder/folder to make tree structured directories
