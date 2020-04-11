@@ -21,3 +21,5 @@ git commit -m "messages."
 git push origin master
 
 git pull origin master (to push down the remote changes to our local repository)
+
+git ls-files (to track all files)
