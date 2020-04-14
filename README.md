@@ -35,7 +35,8 @@ Local repo changes will be in remove repo by git push
     
   
 ## Linux commands
-  ### mkdir -p folder/folder to make tree structured directories
+  ### mkdir -p folder_name/folder_name 
+    to make tree structured directories
 
 
 
