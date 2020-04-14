@@ -26,17 +26,16 @@ Local repo changes will be in remove repo by git push
  ### git pull origin master (to push down the remote changes to our local repository)
  ### git ls-files (to track all files)
  ### git reset HEAD filename
- It unstage the file means put back to working directory from staging area or undo git add
+    It unstage the file means put back to working directory from staging area or undo git add
  ### git checkout -- filename
- It undo the changes we have done or to discard changes in working directory
+    It undo the changes we have done or to discard changes in working directory
 
- ### git push origin master -f
- If we fial to push
+ ## git push origin master -f
+    If fail to push
+    
+  
 ## Linux commands
   ### mkdir -p folder/folder to make tree structured directories
 
 
-
-## git push origin master -f
-    If fail to push
 
