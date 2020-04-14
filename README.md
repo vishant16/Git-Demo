@@ -4,13 +4,13 @@
 
 ### 1.Local
   #### 1. Working directory
-   When we create new file, it will be in "working directory".
+   When we create new file, file will be in "working directory".
   
   #### 2. Staging area
-  When we add "git add" it goes to staging area
+  When we add "git add" file goes to staging area
   
   #### 3. .git folder
-   When we commit "git commit" it goes to .git folder.
+   When we commit "git commit" file goes to .git folder.
 
 ### 2.Remote
 Local repo changes will be in remove repo by git push
