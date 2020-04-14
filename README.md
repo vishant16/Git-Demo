@@ -1,6 +1,10 @@
 # Git-Demo
 
 ## Lifecycle of Git
+    1. Local
+    2. Remote
+
+
 
 ### 1.Local
   #### 1. Working directory
