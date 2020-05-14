@@ -17,7 +17,7 @@
    When we commit "git commit" file goes to .git folder.
 
 ### 2.Remote
-Local repo changes will be in remove repo by git push
+Local repo changes will be in remote repo by git push
 
   
 ## commands
