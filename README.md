@@ -35,7 +35,7 @@ Local repo changes will be in remove repo by git push
     It undo the changes we have done or to discard changes in working directory
 
  ## git push origin master -f
-    If fail to push
+    If fail to push or failed to push some refs to https://github.com/xyz.git
     
   
 ## Linux commands
