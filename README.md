@@ -41,6 +41,12 @@ Local repo changes will be in remote repo by git push
     git checkout -b branchname
   ## change branch
     git checkout branchname
+  ## delete branch
+    git checkout -d branchname
+   ## all branch
+    git branch -a
+   ## current branch
+    git branch
  ## Linux commands
   ### mkdir -p folder_name/folder_name 
     to make tree structured directories
