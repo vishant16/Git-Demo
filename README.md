@@ -38,7 +38,7 @@ Local repo changes will be in remote repo by git push
     If fail to push or failed to push some refs to https://github.com/xyz.git
     
  ## create branch
-    git branch branchname
+    git checkout -b branchname
   ## change branch
     git checkout branchname
  ## Linux commands
