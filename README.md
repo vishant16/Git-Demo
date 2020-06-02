@@ -37,8 +37,11 @@ Local repo changes will be in remote repo by git push
  ## git push origin master -f
     If fail to push or failed to push some refs to https://github.com/xyz.git
     
-  
-## Linux commands
+ ## create branch
+    git branch branchname
+  ## change branch
+    git checkout branchname
+ ## Linux commands
   ### mkdir -p folder_name/folder_name 
     to make tree structured directories
 
